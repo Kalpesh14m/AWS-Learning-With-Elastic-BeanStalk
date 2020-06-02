@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 03-spring-boot-web-application-h2
+Implementation-Version: 0.0.1
+Built-By: kalpesh
+Implementation-Vendor-Id: com.bunny.springboot.web
+Build-Jdk: 1.8.0_252
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/03-spring-boot-web-application-h2
+Created-By: Maven Integration for Eclipse
+
