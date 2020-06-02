@@ -34,17 +34,17 @@ Most existing application containers or platform-as-a-service solutions, while r
 ## How do I sign up for AWS Elastic Beanstalk?
 To sign up for AWS Elastic Beanstalk, choose the Sign Up Now button on the Elastic Beanstalk detail page. You must have an Amazon Web Services account to access this service; if you do not already have one, you will be prompted to create one when you begin the Elastic Beanstalk process. After signing up, please refer to the&nbsp;AWS Elastic Beanstalk Getting Started Guide.
 
-1 Login with either root user or IAM user
+1. Login with either root user or IAM user
 
 ![](https://user-images.githubusercontent.com/25608527/83551199-aa6f1100-a525-11ea-872b-2215714bd5d9.png)
 
 
-2 In service serach for Elastic BeanStalk
+2. In service serach for Elastic BeanStalk
 
 ![](https://user-images.githubusercontent.com/25608527/83551202-aba03e00-a525-11ea-9777-cb6e7da3d4ba.png)
 
 
-3 **IMP:select proper region where elastic beanstalk service available**
+3. **IMP:select proper region where elastic beanstalk service available**
 ![](https://user-images.githubusercontent.com/25608527/83551217-b0fd8880-a525-11ea-9216-96b7ad2f32fa.png)
 
 
