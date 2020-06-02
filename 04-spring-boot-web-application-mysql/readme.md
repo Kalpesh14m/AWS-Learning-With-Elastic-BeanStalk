@@ -99,17 +99,13 @@ Fetching table and column names from `todos` for auto-completion... Press ^C to 
 +----+--------------+---------+----------------------------+-------------+
 1 row in set (0.0032 sec)
 
-```
-
 ### Create Todo Table for Production
 
 ```
 create table hibernate_sequence (next_val bigint) engine=InnoDB
 insert into hibernate_sequence values ( 1 )
 create table todo (id integer not null, description varchar(255), is_done bit not null, target_date datetime(6), user varchar(255), primary key (id)) engine=InnoDB
-
 ```
-
 
 ![](https://user-images.githubusercontent.com/25608527/83552507-844a7080-a527-11ea-8d24-bb02a986c36b.png)
 
