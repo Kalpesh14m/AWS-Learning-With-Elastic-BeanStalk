@@ -1,15 +1,35 @@
-# Todo and Hello World Rest APIs Connecting to H2 In memory database running on port 5000
+# Hello World Rest APIs with JAR file Deployment
+
+### 1. Login with AWS Account with `root` or `IAM User`
 
 ![](https://user-images.githubusercontent.com/25608527/83551199-aa6f1100-a525-11ea-872b-2215714bd5d9.png)
 
+
+### 2. In service serach for `Elastic BeanStalk`
+
 ![](https://user-images.githubusercontent.com/25608527/83551202-aba03e00-a525-11ea-9777-cb6e7da3d4ba.png)
+
+
+### 3. IMP: select proper region where elastic beanstalk service available for this project I selected `N. Virginia` and click on Create Application 
 
 ![](https://user-images.githubusercontent.com/25608527/83551217-b0fd8880-a525-11ea-9216-96b7ad2f32fa.png)
 
+
+### 4. After that it will ask for two options for our project I selected `Web Server env` 
+
+![](https://user-images.githubusercontent.com/25608527/83570791-4b6cc480-a544-11ea-8db2-88d6d1b50e71.png)
+
+
+### 5. Give proper name, description and tags for a Application
 ![](https://user-images.githubusercontent.com/25608527/83551223-b1961f00-a525-11ea-9a8a-ac80d9a2ce1b.png)
+
+
+### 6. Select [Platform](#../which-languages-and-development-stacks-does-aws-elastic-beanstalk-support) on which we want to deploy our application. 
 
 ![](https://user-images.githubusercontent.com/25608527/83551227-b2c74c00-a525-11ea-8ed7-dd8aec30029a.png)
 
+
+### 7. 
 ![](https://user-images.githubusercontent.com/25608527/83551231-b35fe280-a525-11ea-9f22-82f8bacb575f.png)
 
 ![](https://user-images.githubusercontent.com/25608527/83551234-b3f87900-a525-11ea-8638-499d3d80aac3.png)
