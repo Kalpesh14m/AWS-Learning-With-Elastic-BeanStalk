@@ -21,18 +21,24 @@
 
 
 ### 5. Give proper name, description and tags for a Application
+
 ![](https://user-images.githubusercontent.com/25608527/83551223-b1961f00-a525-11ea-9a8a-ac80d9a2ce1b.png)
 
 
-### 6. Select [Platform](#../which-languages-and-development-stacks-does-aws-elastic-beanstalk-support) on which we want to deploy our application. 
+### 6. Select Platform on which we want to deploy our application. 
 
 ![](https://user-images.githubusercontent.com/25608527/83551227-b2c74c00-a525-11ea-8ed7-dd8aec30029a.png)
 
 
-### 7. 
+### 7. For this project we select `java with java version 11` because we want to deploy `jar file` and select `sample application` because we are creating `new application first time` if `we already created an application and we are just creating new environment` then we will go with `Upload your code` option.
+
 ![](https://user-images.githubusercontent.com/25608527/83551231-b35fe280-a525-11ea-9f22-82f8bacb575f.png)
 
+
+### 8. For more configuration just simply click Configure more option
+
 ![](https://user-images.githubusercontent.com/25608527/83551234-b3f87900-a525-11ea-8638-499d3d80aac3.png)
+
 
 ![](https://user-images.githubusercontent.com/25608527/83551258-bc50b400-a525-11ea-832d-b6622d31a61f.png)
 
