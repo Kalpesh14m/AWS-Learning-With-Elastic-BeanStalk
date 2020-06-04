@@ -2,9 +2,9 @@
 
 ## Running the Application
 
-- REST API - Import `restful-web-services` into Eclipse as Maven Project. Run `com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplication` as a Java Application. Check Authentication and REST API Sections for executing REST APIs.
+- REST API - Import `restful-web-services` into Eclipse as Maven Project. Run `com.bunny.rest.webservices.restfulwebservices.RestfulWebServicesApplication` as a Java Application. Check Authentication and REST API Sections for executing REST APIs.
 - React Application - Import `frontend/todo-app` into Visual Studio Code. Run `npm install` followed by `npm start`
-- http://localhost:4200/ with credentials in28minutes/dummy
+- http://localhost:4200/ with credentials bunny/dummy
 
 > Look at  `Creating New Users` section for creating new users.
 
