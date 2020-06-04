@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bunny.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.974 s - in com.bunny.rest.webservices.restfulwebservices.RestfulWebServicesApplicationTests
