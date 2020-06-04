@@ -1,12 +1,4 @@
-# Full Stack Application with Spring Boot and React
 
-![Architecture](react_00_architecture.png)
-
-To understand the application
-- https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application
-
-To understand JWT and Spring Security Configuration
-- https://www.springboottutorial.com/spring-boot-react-full-stack-with-spring-security-basic-and-jwt-authentication
 
 ## Running the Application
 
