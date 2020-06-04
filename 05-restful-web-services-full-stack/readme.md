@@ -56,7 +56,7 @@ POST to http://localhost:5000/authenticate
 
 ```
 {
-  "username":"in28minutes",
+  "username":"bunny",
   "password":"dummy"
 }
 ```
@@ -103,35 +103,35 @@ Hello World
 {"message":"Hello World - Changed"}
 ```
 
-- http://localhost:5000/hello-world/path-variable/in28minutes
+- http://localhost:5000/hello-world/path-variable/bunny
 
 ```json
-{"message":"Hello World, in28minutes"}
+{"message":"Hello World, bunny"}
 ```
 
 ## TODO Resource Details
 
-- GET - http://localhost:5000/jpa/users/in28minutes/todos
+- GET - http://localhost:5000/jpa/users/bunny/todos
 
 ```
 [
   {
     "id": 10001,
-    "username": "in28minutes",
+    "username": "bunny",
     "description": "Learn JPA",
     "targetDate": "2019-06-27T06:30:30.696+0000",
     "done": false
   },
   {
     "id": 10002,
-    "username": "in28minutes",
+    "username": "bunny",
     "description": "Learn Data JPA",
     "targetDate": "2019-06-27T06:30:30.700+0000",
     "done": false
   },
   {
     "id": 10003,
-    "username": "in28minutes",
+    "username": "bunny",
     "description": "Learn Microservices",
     "targetDate": "2019-06-27T06:30:30.701+0000",
     "done": false
@@ -141,12 +141,12 @@ Hello World
 
 #### Retrieve a specific todo
 
-- GET - http://localhost:5000/jpa/users/in28minutes/todos/10001
+- GET - http://localhost:5000/jpa/users/bunny/todos/10001
 
 ```
 {
   "id": 10001,
-  "username": "in28minutes",
+  "username": "bunny",
   "description": "Learn JPA",
   "targetDate": "2019-06-27T06:30:30.696+0000",
   "done": false
@@ -155,11 +155,11 @@ Hello World
 
 #### Creating a new todo
 
-- POST to http://localhost:5000/jpa/users/in28minutes/todos with BODY of Request given below
+- POST to http://localhost:5000/jpa/users/bunny/todos with BODY of Request given below
 
 ```
 {
-  "username": "in28minutes",
+  "username": "bunny",
   "description": "Learn to Drive a Car",
   "targetDate": "2030-11-09T10:49:23.566+0000",
   "done": false
@@ -168,12 +168,12 @@ Hello World
 
 #### Updating a new todo
 
-- http://localhost:5000/jpa/users/in28minutes/todos/10001 with BODY of Request given below
+- http://localhost:5000/jpa/users/bunny/todos/10001 with BODY of Request given below
 
 ```
 {
   "id": 10001,
-  "username": "in28minutes",
+  "username": "bunny",
   "description": "Learn to Drive a Car",
   "targetDate": "2045-11-09T10:49:23.566+0000",
   "done": false
@@ -182,7 +182,7 @@ Hello World
 
 #### Delete todo
 
-- DELETE to http://localhost:5000/jpa/users/in28minutes/todos/10001
+- DELETE to http://localhost:5000/jpa/users/bunny/todos/10001
 
 ## H2 Schema - Created by Spring Boot Auto Configuration
 
