@@ -1,0 +1,12 @@
+{
+	"AWSEBDockerrunVersion": "1",
+	"Image": {
+		"Name": "devil143bunny/deploy-first-container:V1.0.0",
+		"Update": "true"
+	},
+	"Ports": [
+		{
+			"ContainerPort": "5000"
+		}
+	]
+}
